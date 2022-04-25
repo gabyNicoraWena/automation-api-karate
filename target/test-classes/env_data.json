@@ -1,0 +1,11 @@
+{
+  "dev": {
+  },
+  "test": {
+    "apiUrl": "https://idm.test.getfivvy.com",
+    "apiUrl2": "https://api.test.getfivvy.com"
+  },
+  "qa": {},
+  "uat": {
+  }
+}
