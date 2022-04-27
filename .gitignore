@@ -4,3 +4,6 @@ target/test-classes/karate/
 .vscore/
 
 .idea
+
+#archivos de uso local
+*pruebasgaby.json
